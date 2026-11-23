@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-labelledby="title">
+  <title id="title">Ảnh đại diện minh họa</title>
+  <defs>
+    <linearGradient id="background" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#d9eadc"/>
+      <stop offset="1" stop-color="#a8cdb2"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" fill="url(#background)"/>
+  <circle cx="200" cy="147" r="73" fill="#f3c8a9"/>
+  <path d="M126 146c0-60 34-97 78-97 50 0 83 39 77 103-19-22-35-32-53-48-23 27-58 42-102 42z" fill="#344b42"/>
+  <path d="M75 400c7-95 53-148 125-148s118 53 125 148z" fill="#2f7459"/>
+</svg>
